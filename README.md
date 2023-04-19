@@ -29,7 +29,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
--   [Ben Sherred](https://github.com/red-explosion)
+-   [Ben Sherred](https://github.com/bensherred)
 -   [All Contributors](../../contributors)
 
 ## License
