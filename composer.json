@@ -1,0 +1,24 @@
+{
+    "name": "red-explosion/pint-config",
+    "description": "Red Explosion's Laravel Pint config",
+    "keywords": [
+        "red-explosion",
+        "config-pint"
+    ],
+    "homepage": "https://github.com/red-explosion/pint-config",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ben Sherred",
+            "email": "ben@sherred.co.uk",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
