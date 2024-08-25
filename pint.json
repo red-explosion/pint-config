@@ -1,4 +1,5 @@
 {
+    "preset": "empty",
     "rules": {
         "align_multiline_comment": true,
         "array_indentation": true,
@@ -201,6 +202,7 @@
         },
         "single_quote": true,
         "single_space_around_construct": true,
+        "single_trait_insert_per_statement": true,
         "space_after_semicolon": true,
         "spaces_inside_parentheses": true,
         "standardize_not_equals": true,
