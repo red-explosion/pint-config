@@ -2,6 +2,14 @@
 
 All notable changes to `pint-config` will be documented in this file.
 
+## v1.4.0 - 2024-08-25
+
+### What's Changed
+
+* Set empty preset by @bensherred in https://github.com/red-explosion/pint-config/pull/4
+
+**Full Changelog**: https://github.com/red-explosion/pint-config/compare/v1.3.0...v1.4.0
+
 ## v1.3.0 - 2024-03-15
 
 ### What's Changed
